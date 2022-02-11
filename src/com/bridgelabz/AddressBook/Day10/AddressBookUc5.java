@@ -23,7 +23,7 @@ public class AddressBookUc5 {
                     collection.DisplayContacts();
                     break;
                 case 3:
-                    collection.editData();;
+                    collection.editData();
                     break;
                 case 4:
                     collection.deleteData();
